@@ -5,7 +5,9 @@
 - Atualmente, sou estudante de Economia no **Insper**, finalizando meu quinto semestre
 - Pretendo me tornar acadêmico, fazendo um mestrado e um doutorado em Economia
 - Minhas áreas de interesse são Macroeconomia, Políticas Públicas, Análise de Dados e Microeconometria
-- Busco oportunidades de Assistência de Pesquisa e/ou Analista de Dados 
+- Busco oportunidades de Assistência de Pesquisa e/ou Analista de Dados
+
+Você está mais do que convidado para analisar meus códigos!
 
 
 <div style="display: inline_block"><br>
