@@ -2,7 +2,7 @@
 
 ### Um pouco mais sobre mim:
 - Tenho 20 anos e sou nascido e criado em **São Paulo**, SP, Brasil
-- Atualmente, sou estudante de Economia no **Insper**, finalizando meu quinto semestre
+- Atualmente, sou estudante de sexto semestre de Economia no **Insper**
 - Pretendo me tornar acadêmico, fazendo um mestrado e um doutorado em Economia
 - Minhas áreas de interesse são Macroeconomia, Políticas Públicas, Análise de Dados e Microeconometria
 - Busco oportunidades de Assistência de Pesquisa e/ou Analista de Dados
