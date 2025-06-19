@@ -1,14 +1,11 @@
-## Olá, tudo bem? eu sou o Andreas!
+## Hi, how are you? I'm Andreas!
 
-### Um pouco mais sobre mim:
-- Tenho 20 anos e sou nascido e criado em **São Paulo**, SP, Brasil
-- Atualmente, sou estudante de sexto semestre de Economia no **Insper**
-- Pretendo me tornar acadêmico, fazendo um mestrado e um doutorado em Economia
-- Minhas áreas de interesse são Macroeconomia, Políticas Públicas, Análise de Dados e Microeconometria
-- Busco oportunidades de Assistência de Pesquisa e/ou Analista de Dados
-
-Você está mais do que convidado para analisar meus códigos!
-
+### A bit more about me:
+- I'm 20 years old, born and raised in **São Paulo**, SP, Brazil
+- I’m currently a sixth-semester Economics student at **Insper**
+- I plan to pursue an academic career, completing a master’s and PhD in Economics
+- My areas of interest are Microeconometrics, Political Economy, Public Policy, and Data Analysis.
+- You can find my CV [here](https://drive.google.com/file/d/1n_0pxjZNEXOXEYI1afL6xsk6p0cIh1GT/view)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Andreas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
