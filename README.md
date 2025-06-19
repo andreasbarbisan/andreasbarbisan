@@ -5,7 +5,9 @@
 - I’m currently a sixth-semester Economics student at **Insper**
 - I plan to pursue an academic career, completing a master’s and PhD in Economics
 - My areas of interest are Microeconometrics, Political Economy, Public Policy, and Data Analysis.
-- You can find my CV [here](https://drive.google.com/file/d/1n_0pxjZNEXOXEYI1afL6xsk6p0cIh1GT/view)
+- You can find my CV [here.](https://drive.google.com/file/d/1n_0pxjZNEXOXEYI1afL6xsk6p0cIh1GT/view)
+
+Thanks for visiting!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Andreas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
