@@ -5,7 +5,7 @@
 - I’m currently a sixth-semester Economics student at **Insper**
 - I plan to pursue an academic career, completing a master’s and PhD in Economics
 - My areas of interest are Microeconometrics, Political Economy, Public Policy, and Data Analysis.
-- You can find my CV [here.](https://drive.google.com/file/d/1n_0pxjZNEXOXEYI1afL6xsk6p0cIh1GT/view)
+- You can find my CV [here.](https://drive.google.com/file/d/1bEedS8Kxz-LPogA4DHAZi0lKaZOHRg19/view?usp=sharing)
 
 Thanks for visiting!
 
