@@ -2,7 +2,7 @@
 
 ### A bit more about me:
 - I'm 21 years old, born and raised in **São Paulo**, SP, Brazil
-- I’m currently a seventh-semester Economics undergraduate student at **Insper**, and on an exchange semester at **IÉSEG School of Management** in Lille, France
+- I’m currently a eighth-semester Economics undergraduate student at **Insper**, and previously was an exchange semester at **IÉSEG School of Management** in Lille, France
 - I plan to pursue an academic career, completing a master’s and PhD in Economics
 - My areas of interest are Microeconometrics, Political Economy, Public Policy, and Data Science.
 - You can find my CV [here.](https://drive.google.com/file/d/1bEedS8Kxz-LPogA4DHAZi0lKaZOHRg19/view?usp=sharing)
